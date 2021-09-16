@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(219, 174, 182);
+}
+
+.next,
+.previous {
+    display: flex;
+    width: 100px;
+    background-color: darkgray;
+    height: 500px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.gallery {
+
+    display: flex;
+
+    justify-content: center;
+    padding-top: 100px;
+}

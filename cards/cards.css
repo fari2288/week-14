@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(171, 192, 192);
+}
+.flexcontainer {
+    display: flex;
+    padding-top: 100px;
+    justify-content: space-evenly;
+}
+
+.card {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(202, 155, 155);
+}
+
+.selected {
+    background-color: rgb(175, 137, 175);
+}
