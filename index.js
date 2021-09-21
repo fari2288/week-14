@@ -1,4 +1,6 @@
-    function showMessage() {
+    
+
+    let showMessage= () => {
         let name = prompt('Как Вас зовут?');
         alert(`Привет, ${name}!`);
     }
